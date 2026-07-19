@@ -1,3 +1,5 @@
+⚠️ Caution: This project is developed solely for educational and learning purposes. It is not intended for commercial use or production deployment.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
